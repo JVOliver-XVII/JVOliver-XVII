@@ -98,6 +98,7 @@
 <a href="https://github.com/JVOliver-XVII">
     <img src="https://img.shields.io/github/followers/JVOliver-XVII?style=for-the-badge&logo=github&color=white&labelColor=black"/>
   </a>
+  
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E31B23&height=70&section=footer"/>
