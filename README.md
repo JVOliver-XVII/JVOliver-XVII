@@ -89,7 +89,7 @@
 <a href="www.linkedin.com/in/joão-victor-duarte-b42887301">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<a href="https://discordapp.com/users/1068315893588820018">
+<a href="https://discordapp.com/users/843650360937021480">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 <a href="https://www.instagram.com/victooduarte/">
