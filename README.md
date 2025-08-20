@@ -16,6 +16,7 @@
  &nbsp;<strong>Applications and Data</strong>&nbsp;
  <img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 </h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFD700&color=A020F0"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
