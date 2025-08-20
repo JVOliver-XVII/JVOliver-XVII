@@ -9,6 +9,14 @@
  My name is <strong>João Victor de Oliveira Duarte</strong>, I'm a undergraduate student in <strong>Information Technology and Systems</strong> affiliated with the Universidade Federal Fluminense (UFF). <br><br> I am in the second semester of my course, dedicating myself to the assimilation of new technologies and programming languages.
 </p>
 
+<details align="center">
+   <summary><img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+ &nbsp;More about me&nbsp;
+ <img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /></summary>
+
+
+</details>
+
 <br>
 
 <h2 width="100%" align="center">
@@ -100,4 +108,5 @@
   
 </p>
 
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjoamjq3drxktz3w2qzhhvzyey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=b14e4e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E31B23&height=70&section=footer"/>
