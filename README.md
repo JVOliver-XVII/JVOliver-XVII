@@ -108,5 +108,5 @@
   
 </p>
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hjoamjq3drxktz3w2qzhhvzyey&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=b14e4e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E31B23&height=70&section=footer"/>
