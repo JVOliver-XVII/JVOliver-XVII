@@ -75,13 +75,11 @@
   </tr>
 </table>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="dist/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JVOliver-XVII/JVOliver-XVII/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JVOliver-XVII/JVOliver-XVII/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JVOliver-XVII/JVOliver-XVII/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
 <a href="mailto:joaooliverduarte17@gmail.com">
